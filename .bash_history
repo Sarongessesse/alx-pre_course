@@ -315,3 +315,137 @@ pwd
 ls
 cd /0x02-shell_redirections
 exit
+cd root 
+ls 
+git init 
+git add .
+git commit -m " first"
+pwd
+cd 0x02-git
+git init 
+git add .
+git commit -m " first "
+git remote add origin https://github.com/Sarongessesse/alx-pre_course.git
+git push origin master
+git push -f origin master
+clear
+exit 
+cd /root
+ls
+git add 0x02-git 
+git init
+git commit -m "second commit"
+git rebase --
+git push origin master
+git push -f origin base
+git push -f origin master
+exit
+cd bash
+ls
+emacs alx
+emacs school
+cd /root/alx-zero_day
+git add .
+git commit -m “My personal work”
+git commit -m "My personal work"
+git push origin update_script 
+git checkout master
+cd bash
+cd 0x03-git
+cd bash
+emacs alx
+ls
+cd /root/alx-zero_day
+git add .
+git commit -m "Hot fix"
+git push origin master
+ls
+0x03-git
+ls
+cd 0x03-git
+ls
+git checkout update_script 
+ls
+cd bash
+ls
+touch 98
+ls
+cd /root/alx-zero_day
+git add .
+git commit -m "My personal work"
+git push origin update_script 
+git checkout master
+cd 0x03-git
+ls
+emacs README.md
+emacs 
+cd /root/alx-zero_day
+git add .
+git commit -m "How to be up to date in git"
+git push add origin master
+git push origin master
+ls
+cd 0x03-git
+ls
+emacs up_to_date
+cd /root/alx-zero_day
+git add .
+git git commit -m "How to be up to date in git"
+git push origin master
+git push origin master 
+git push origin master
+cd  /root/alx-zero_day/0x03-git
+ls
+emacs up_to_date
+git checkout master
+cd /root/alx-zero_day
+git checkout master
+cd 0x03-git
+ls
+emacs up_to_date
+cd /root/alx-zero_day
+git add .
+git commit -m "Starting to code today, so cool"
+git push origi master
+git push origin master
+cd /root
+ls
+mkdir zero_day
+ls
+cd zero_day
+git init 
+git remote add origin https://github.com/Sarongessesse/zero_day.git
+ls
+pwd
+emacs
+git add .
+git commit -m "My first commit"
+git push origin master
+pwd
+mkdir 0x00-vagrant
+ls
+cd 0x00-vagrant
+ls
+emacs
+vm
+vi
+ls
+emacs
+ls
+emacs 
+ls
+uname
+emacs 0-hello_ubuntu
+cd /root/zero_day
+git add .
+git commit -m "vagrant commit"
+git push origin master
+exit
+cd /root
+ls
+cd alx-system_engineering-devops
+ls
+cd 0x00-shell_basics
+ls
+emacs 0-current_working_directory
+exit
