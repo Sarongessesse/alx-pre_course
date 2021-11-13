@@ -449,3 +449,110 @@ cd 0x00-shell_basics
 ls
 emacs 0-current_working_directory
 exit
+pwd
+cd /root
+pwd
+ls
+cd alx-low_level_programming 
+ls
+mkdir 0x02-functions_nested_loops
+ls
+cd 0x02-functions_nested_loops
+ls
+touch 1-alphabet.c
+ls
+chmod u+x 1-alphabet.c 
+ls
+cd /root/alx-low_level_programming
+ls
+cd 0x01-variables_if_else_while
+ls
+cd/root/alx-low_level_programming
+cd /root/alx-low_level_programming
+ls
+cd 0x02-functions_nested_loops
+ls
+touch README.md
+ls
+emacs README.md
+ls
+emacs 1-alphabet.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
+ls
+mv 1-alphabet.c 0_putchar.c
+ls
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-p
+utchar.c -o 0-putchar                                                                                                                   
+mv 1-alphabet.c~ 0_putchar.c~
+ls
+gcc -Wall 0_putchar.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
+ls
+emacs 0_putchar.c 
+git init 
+git add .
+git commit -m "_put"
+git push origin master
+quit
+exit
+cd /root
+ls
+cd alx-low_level_programming
+ls
+cd 0x02-functions_nested_loops
+ls
+git init 
+git add .
+git commit -m "put"
+git push origin master 
+cd /root/alx-low_level_programming
+ls
+rmdir 0x02-functions_nested_loops
+cd 0x02-functions_nested_loops
+ls
+rm 0_putchar.c
+ls
+rm 0_putchar.c~
+rm  a.out
+ls
+rm README.md~
+rm README.md
+cd /root/alx-low_level_programming
+ls
+rmdir 0x02-functions_nested_loops
+cd 0x02-functions_nested_loops
+ls
+cd /root/alx-low_level_programming
+ls
+rmdir 0x02-functions_nested_loops
+cd 0x02-functions_nested_loops
+ls
+touch README.md
+emacs README.md
+touch 0-putchar.c
+emacs 0-putchar.c
+gcc -Wall 0-putchar.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
+pwd
+ls
+chmod u+x 0-putchar.c
+ls
+chmod u+x 0-putchar.c~
+ls
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
+gcc -Wall 0-putchar.c
+git init
+git add .
+git commit-m "put"
+git commit -m "put"
+git push 
+git remote add origin https://github.com/Sarongessesse/alx-low_level_programming
+git push origin master
+git originmaster
+git push origin master
+git add remote origin github.com/Sarongessesse
+git add remote github.com/Sarongessesse
+git remote add origin https://github.com/Sarongessesse/alx-low_level_programming
+git push origin master
+exit 
+exit
