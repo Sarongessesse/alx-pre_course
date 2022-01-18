@@ -11,6 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wqa
+|2,0,1642441225,,"wqa"
+:diffg RE
+|2,0,1642441157,,"diffg RE"
 :qa
 |2,0,1637650245,,"qa"
 :q
@@ -31,32 +35,43 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"q	CHAR	0
+	€kb
+|3,0,26,0,1,0,1642441133,"€kb"
 
 # File marks:
-'0  16  5  ~/.git/COMMIT_EDITMSG
-|4,48,16,5,1637650245,"~/.git/COMMIT_EDITMSG"
-'1  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
-|4,49,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
-'2  3  0  ~/alx-zero_day/.git/MERGE_MSG
-|4,50,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
-'3  1  2  /0x00-shell_basics/0-current_working_directory
-|4,51,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
-'4  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,52,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
-'5  1  0  ~/0x02_vi/end_of_the_line
-|4,53,1,0,1629275773,"~/0x02_vi/end_of_the_line"
-'6  1  0  ~/0x02_vi/beginning_of_the_line
-|4,54,1,0,1629275704,"~/0x02_vi/beginning_of_the_line"
-'7  1  2  ~/0x02_vi/exiting
-|4,55,1,2,1629275523,"~/0x02_vi/exiting"
-'8  1  0  ~/0x02_vi/undoing
-|4,56,1,0,1629275434,"~/0x02_vi/undoing"
-'9  1  0  ~/0x02_vi/pasting
-|4,57,1,0,1629275354,"~/0x02_vi/pasting"
+'0  3  0  ~/alx-low_level_programming/0x02-functions_nested_loops/README.md
+|4,48,3,0,1642441225,"~/alx-low_level_programming/0x02-functions_nested_loops/README.md"
+'1  16  5  ~/.git/COMMIT_EDITMSG
+|4,49,16,5,1637650245,"~/.git/COMMIT_EDITMSG"
+'2  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,50,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+'3  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,51,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+'4  1  2  /0x00-shell_basics/0-current_working_directory
+|4,52,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+'5  1  36  /alx-zero_day/.git/MERGE_MSG
+|4,53,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
+'6  1  0  ~/0x02_vi/end_of_the_line
+|4,54,1,0,1629275773,"~/0x02_vi/end_of_the_line"
+'7  1  0  ~/0x02_vi/beginning_of_the_line
+|4,55,1,0,1629275704,"~/0x02_vi/beginning_of_the_line"
+'8  1  2  ~/0x02_vi/exiting
+|4,56,1,2,1629275523,"~/0x02_vi/exiting"
+'9  1  0  ~/0x02_vi/undoing
+|4,57,1,0,1629275434,"~/0x02_vi/undoing"
 
 # Jumplist (newest first):
+-'  3  0  ~/alx-low_level_programming/0x02-functions_nested_loops/README.md
+|4,39,3,0,1642441225,"~/alx-low_level_programming/0x02-functions_nested_loops/README.md"
+-'  1  0  ~/alx-low_level_programming/0x02-functions_nested_loops/README.md
+|4,39,1,0,1642440902,"~/alx-low_level_programming/0x02-functions_nested_loops/README.md"
 -'  16  5  ~/.git/COMMIT_EDITMSG
 |4,39,16,5,1637650245,"~/.git/COMMIT_EDITMSG"
+-'  16  5  ~/.git/COMMIT_EDITMSG
+|4,39,16,5,1637650245,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1637650200,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1637650200,"~/.git/COMMIT_EDITMSG"
 -'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
@@ -67,6 +82,22 @@
 |4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
 -'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
 |4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  18  24  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,18,24,1633937255,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,1,0,1633937097,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,1,0,1633937097,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,1,0,1633937097,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
+-'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
+|4,39,1,0,1633937097,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
 |4,39,1,0,1633937097,"~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG"
 -'  1  0  ~/alx-low_level_programming/0x00-hello_world/.git/COMMIT_EDITMSG
@@ -91,6 +122,38 @@
 |4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
 -'  3  0  ~/alx-zero_day/.git/MERGE_MSG
 |4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  3  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,3,0,1630100204,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  ~/alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
 -'  1  0  ~/alx-zero_day/.git/MERGE_MSG
 |4,39,1,0,1630100142,"~/alx-zero_day/.git/MERGE_MSG"
 -'  1  0  ~/alx-zero_day/.git/MERGE_MSG
@@ -171,92 +234,48 @@
 |4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
 -'  1  2  /0x00-shell_basics/0-current_working_directory
 |4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
--'  1  36  /alx-zero_day/.git/MERGE_MSG
-|4,39,1,36,1629503858,"/alx-zero_day/.git/MERGE_MSG"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
+-'  1  2  /0x00-shell_basics/0-current_working_directory
+|4,39,1,2,1629745042,"/0x00-shell_basics/0-current_working_directory"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/README.md
+	*	1642441157	0
+	"	3	0
+	^	2	0
+	.	1	0
+	+	6	57
+	+	1	0
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/README_REMOTE_184.md
+	*	1642440902	0
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1637650241	0
@@ -336,3 +355,6 @@
 	^	1	1
 	.	1	1
 	+	1	1
+
+> ~/alx-low_level_programming/0x02-functions_nested_loops/README_LOCAL_184.md
+	"	1	0
